@@ -1,6 +1,6 @@
 # Arquitetura CSS - Alura
 
-Curso de Arquitetura CSS da Alura, onde é ensinado boas práticas para nomeação de classes, estruturação das pastas de estilo e organização do código CSS utilizando o conceito de Atomic Design e BEM(Block Element Modifier)
+Curso de Arquitetura CSS da Alura, onde é ensinado boas práticas para nomeação de classes, estruturação de diretórios e organização de código CSS utilizando o conceito de Atomic Design e BEM(Block Element Modifier)
 
 ### Atomic Design
 
